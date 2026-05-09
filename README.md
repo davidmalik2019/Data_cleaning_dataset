@@ -8,7 +8,7 @@ Steps in Cleaning Data
     Type N/A and click the button Cntrl+Enter     
 (f) Replace error value by writing a conditional statement (=IFERROR(I3/H3,"N/A"),
      This statement will replace the error value with N/A   
-                             Uncleaned Data
+                                                      Uncleaned Data
      <img width="715" height="373" alt="data_messy" src="https://github.com/user-attachments/assets/d083f000-8393-4746-8c3b-98303fd79489" />
 
 

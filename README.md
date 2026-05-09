@@ -11,4 +11,9 @@ Steps in Cleaning Data
       Uncleaned Data
      <img width="715" height="373" alt="data_messy" src="https://github.com/user-attachments/assets/d083f000-8393-4746-8c3b-98303fd79489" />
 
+     Clean Data (ready for Analysis on Tableau)
+
+     <img width="926" height="392" alt="data_cleaned" src="https://github.com/user-attachments/assets/e2651278-d498-4ff6-8401-24c6b31fa0ea" />
+
+
 

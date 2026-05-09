@@ -2,4 +2,6 @@ Steps in Cleaning Data
 (a) Auto fit row and column, that is the dataset is mot organized properly    
 (b) find and replace unwanted data format by selecting all the dataset and click Find+Replace button     
 (c) Use TRIM and PROPER function to remove unwated space on the text 
-    and make every Name to start with capital letter
+    and make every Name to start with capital letter   
+(d) Remove duplicated values (copy the whole dataset and click on Remove duplicate button after clicking Data header on ms-excel)
+

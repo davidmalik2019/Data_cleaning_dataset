@@ -5,5 +5,7 @@ Steps in Cleaning Data
     and make every Name to start with capital letter   
 (d) Remove duplicated values (copy the whole dataset and click on Remove duplicate button after clicking Data header on ms-excel)   
 (e) Find blank space and Replace with N/A (select all dataset, click Home header, Find/select/Special and Check Blank),
-    Type N/A and click the button Cntrl+Enter
+    Type N/A and click the button Cntrl+Enter     
+(f) Replace error value by writing a conditional statement (=IFERROR(I3/H3,"N/A"),
+     This statement will replace the error value with N/A
 
